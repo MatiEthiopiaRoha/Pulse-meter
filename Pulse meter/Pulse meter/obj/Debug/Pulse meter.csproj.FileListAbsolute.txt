@@ -1,0 +1,11 @@
+c:\users\mati ethiopia\documents\visual studio 2015\Projects\Pulse meter\Pulse meter\bin\Debug\Pulse meter.exe.config
+c:\users\mati ethiopia\documents\visual studio 2015\Projects\Pulse meter\Pulse meter\bin\Debug\Pulse meter.exe
+c:\users\mati ethiopia\documents\visual studio 2015\Projects\Pulse meter\Pulse meter\bin\Debug\Pulse meter.pdb
+c:\users\mati ethiopia\documents\visual studio 2015\Projects\Pulse meter\Pulse meter\obj\Debug\Pulse meter.csprojResolveAssemblyReference.cache
+c:\users\mati ethiopia\documents\visual studio 2015\Projects\Pulse meter\Pulse meter\obj\Debug\Pulse_meter.Form1.resources
+c:\users\mati ethiopia\documents\visual studio 2015\Projects\Pulse meter\Pulse meter\obj\Debug\Pulse_meter.Properties.Resources.resources
+c:\users\mati ethiopia\documents\visual studio 2015\Projects\Pulse meter\Pulse meter\obj\Debug\Pulse meter.csproj.GenerateResource.Cache
+c:\users\mati ethiopia\documents\visual studio 2015\Projects\Pulse meter\Pulse meter\obj\Debug\Pulse meter.exe
+c:\users\mati ethiopia\documents\visual studio 2015\Projects\Pulse meter\Pulse meter\obj\Debug\Pulse meter.pdb
+c:\users\mati ethiopia\documents\visual studio 2015\Projects\Pulse meter\Pulse meter\bin\Debug\kayChart.dll
+c:\users\mati ethiopia\documents\visual studio 2015\Projects\Pulse meter\Pulse meter\bin\Debug\MaterialSkin.dll
